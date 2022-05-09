@@ -64,6 +64,7 @@
     <a href="#"><img alt="Microsoft Access" src ="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Amazon Aws" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=plastic"></a>
 </p>
 
 ### 💻 Software and tools
