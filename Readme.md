@@ -8,6 +8,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+&nbsp; <a href="https://www.youtube.com/channel/UC_RPiJxsCKh33S3glnut9Vg/featured" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/kamran-ismayilov-136950224/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:kamranvi@code.edu.az" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
