@@ -86,7 +86,6 @@
     <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&style=plastic"></a> -->
 </p>
 
-
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
