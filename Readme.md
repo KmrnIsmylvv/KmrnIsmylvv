@@ -1,6 +1,6 @@
 <h2>Hi, I'm <strong>Kamran Ismayilov</strong></h2>
 <hr>
-<h3>I'm a Computer Science student at ASOIU. I've been interested in programming for about a year</h3>
+<h3>I'm a Full-Stack Web Developer, Student Mentor and Student. I've been interested in programming for about a year</h3>
 
 <hr>
 
