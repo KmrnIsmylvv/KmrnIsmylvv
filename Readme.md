@@ -85,6 +85,7 @@
      <a href="#"><img alt="Microsoft Visio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white&style=plastic"></a>
     <!-- <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white&style=plastic"></a> -->
+    
 </p>
 
 ## 📊 Github stats
